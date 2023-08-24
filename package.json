@@ -1,0 +1,11 @@
+{
+  "name": "cheerio_scraping",
+  "version": "0.01",
+  "description": "Google Image href scraping",
+  "main": "index.js",
+  "author": "dariusprince90",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
